@@ -3,6 +3,8 @@
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 
+Now fully signed!
+
 HashVektor is a fast, lightweight file hashing utility designed for Windows.  
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
