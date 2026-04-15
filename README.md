@@ -95,6 +95,8 @@ PlanetArchives.org
 
 support@planetarchives.org 
 
+A bug report or suggestion is friendlier than asking for a refund!
+
 
 
 
