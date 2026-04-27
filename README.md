@@ -1,4 +1,4 @@
-# HashVektor_v1.0 — Proprietary Edition
+# HashVektor — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
