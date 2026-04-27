@@ -7,7 +7,7 @@ HashVektor is a fast, lightweight file hashing utility designed for Windows.
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
 
-This is the **official proprietary release** of HashVektor_v1.0.
+This is the **official proprietary release** of HashVektor_v1.1.
 
 ---
 
@@ -26,7 +26,7 @@ This is the **official proprietary release** of HashVektor_v1.0.
 
 ## Licensing & Activation
 
-HashVektor_v1.0 uses **offline per‑machine activation**.
+HashVektor_v1.1 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
@@ -47,7 +47,7 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.0.exe`
+1. Launch `HashVektor_v1.0.exe` or 'HashVektor_v1.1.exe'
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
@@ -71,7 +71,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of HashVektor_v1.0 is available on:
+The latest release of HashVektor_v1.1 is available on:
 
 - **GitHub Releases**  
 - **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
