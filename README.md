@@ -47,12 +47,13 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.1.exe`
-2. Click **Activate License**
-3. Supply your Machine ID
-4. License key will be generated and supplied
-5. Enter your license key
-6. HashVektor will bind the key to your machine and unlock full functionality
+1. Please patch your `HashVektor` executable to the latest version
+2. Launch `HashVektor_v1.1.exe`
+3. Click **Activate License**
+4. Supply your Machine ID
+5. License key will be generated and supplied
+6. Enter your license key
+7. HashVektor will bind the key to your machine and unlock full functionality
 
 Activation takes only a few seconds and does not require internet access.
 
