@@ -105,6 +105,8 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org  
 support@planetarchives.org
 
+---
+
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_v1.2.exe` [LATEST VERSION]:
