@@ -108,11 +108,11 @@ support@planetarchives.org
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_HF-003_Patcher.exe`:
-    `f29e1ebba7abefc0897d3f57873d95b231e679c00a2c255608d771ccf0447489`
+    ``
 - SHA‑256 checksum of `HashVektor_v1.0.exe` [LATEST VERSION]:
-    `0da31f844e77432ea0371d1a816d0d9dfbd8b95033338f0b5cc47348df73752f`
-- Size: `609.84 KB`
-- Modified: `2026-05-14 16:38:30`
+    ``
+- Size: ``
+- Modified: ``
 - Version number: `1.1.0`
 - VirusTotal Scan
     - [`HashVektor_HF-003_Patcher.exe`]()
