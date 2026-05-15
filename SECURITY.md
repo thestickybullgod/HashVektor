@@ -30,7 +30,7 @@ requests that expose sensitive information.
 
 ## Scope
 This policy applies only to:
-- The proprietary HashVektor_v1.0
+- The proprietary HashVektor v1.1
 - Future commercial releases
 - The portable version
 - The MAUI rewrite
