@@ -115,9 +115,9 @@ support@planetarchives.org
 - Modified: `2026-05-14 16:38:30`
 - Version number: `1.1.0`
 - VirusTotal Scan
-    - [`HashVektor_HF-003_Patcher.exe:`](https://www.virustotal.com/gui/file/f29e1ebba7abefc0897d3f57873d95b231e679c00a2c255608d771ccf0447489?nocache=1)
+    - [`HashVektor_HF-003_Patcher.exe`](https://www.virustotal.com/gui/file/f29e1ebba7abefc0897d3f57873d95b231e679c00a2c255608d771ccf0447489?nocache=1)
         — a few heuristic false positives; no confirmed malware
-    - [`HashVektor_v1.0.exe [LATEST VERSION]:`](https://www.virustotal.com/gui/file/0da31f844e77432ea0371d1a816d0d9dfbd8b95033338f0b5cc47348df73752f?nocache=1)
+    - [`HashVektor_v1.0.exe [LATEST VERSION]`](https://www.virustotal.com/gui/file/0da31f844e77432ea0371d1a816d0d9dfbd8b95033338f0b5cc47348df73752f?nocache=1)
         — a few heuristic false positives; no confirmed malware
 - Originally developed in PowerShell, compiled into a standalone executable
 - No external dependencies
