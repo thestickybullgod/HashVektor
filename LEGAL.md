@@ -56,7 +56,7 @@ unauthorized and subject to DMCA takedown.
 ---
 
 ## 5. Commercial Licensing
-HashVektor v1.1 and later will be distributed under a paid, per-machine,
+HashVektor v1.0 and later will be distributed under a paid, per-machine,
 lifetime commercial license.
 
 ---
