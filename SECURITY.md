@@ -3,7 +3,7 @@
 ## Supported Versions
 Only the current proprietary branch (`proprietary-main`) is supported.
 
-Any versions of HashVektor, formerly CrunchHash, released previously under the MIT License are
+Any versions of HashVektor, formerly known as CrunchHash, released previously under the MIT License are
 no longer maintained and receive no security updates.
 
 ## Reporting a Vulnerability
