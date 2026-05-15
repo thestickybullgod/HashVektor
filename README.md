@@ -109,13 +109,13 @@ support@planetarchives.org
 
 ## Integrity Verification & Technical Notes
 
-- SHA‑256 checksum of `HashVektor_v1.2.exe` [LATEST VERSION]:
+- SHA‑256 checksum of `HashVektor_v1.2.exe`:
     `ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1`
 - Size: `610.34 KB`
 - Modified: `2026-05-14 19:11:49`
 - Version number: `1.2.0`
 - VirusTotal Scan
-    - [`HashVektor_v1.2.exe [LATEST VERSION]`](https://www.virustotal.com/gui/file/ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1?nocache=1)
+    - [`HashVektor_v1.2.exe`](https://www.virustotal.com/gui/file/ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1?nocache=1)
         — a few heuristic false positives; no confirmed malware
 - Originally developed in PowerShell, compiled into a standalone executable
 - No external dependencies
