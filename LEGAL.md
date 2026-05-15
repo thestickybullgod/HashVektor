@@ -1,8 +1,8 @@
 # Legal Notice — CrunchHash Licensing Transition
 
 ## Overview
-HashVektor, formerly CrunchHash, was previously released under the MIT License during early
-development. As of February 2026, HashVektor, formerly CrunchHash, has transitioned to a
+HashVektor, formerly known as CrunchHash, was previously released under the MIT License during early
+development. As of February 2026, HashVektor, formerly known as CrunchHash, has transitioned to a
 proprietary, source-available license.
 
 This document explains the legal status of past and future versions.
@@ -10,7 +10,7 @@ This document explains the legal status of past and future versions.
 ---
 
 ## 1. Ownership
-HashVektor, formerly CrunchHash, is the exclusive property of:
+HashVektor, formerly known as CrunchHash, is the exclusive property of:
 **Dustin Wayne Deen**
 
 All rights are reserved unless explicitly granted.
@@ -18,7 +18,7 @@ All rights are reserved unless explicitly granted.
 ---
 
 ## 2. Status of MIT-Licensed Code
-Any version of HashVektor, formerly CrunchHash, that was released under the MIT License remains
+Any version of HashVektor, formerly known as CrunchHash, that was released under the MIT License remains
 available under those terms. MIT rights apply **only** to the exact code
 that was published under MIT.
 
@@ -26,7 +26,7 @@ MIT rights do NOT apply to:
 - New commits after the license change
 - Rewritten or replaced files
 - New features, modules, or architectures
-- HashVektor_v1.0 and later
+- HashVektor v1.1 and later
 - Portable builds
 - MAUI rewrites
 - Commercial releases
@@ -56,7 +56,7 @@ unauthorized and subject to DMCA takedown.
 ---
 
 ## 5. Commercial Licensing
-HashVektor_v1.0 and later will be distributed under a paid, per-machine,
+HashVektor v1.1 and later will be distributed under a paid, per-machine,
 lifetime commercial license.
 
 ---
