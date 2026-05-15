@@ -120,7 +120,6 @@ support@planetarchives.org
 - Originally developed in PowerShell, compiled into a standalone executable
 - No external dependencies
 - No telemetry or data collection
-- To submit bug reports, please contact support@planetarchives.org
 - Future patches and improvements will be delivered as free updates to licensed users. To receive updates, please download and run the necessary HotFix. A HotFix is a file which, when double-clicked, prompts the user with the option to update the HashVektor executable.
 - Please run the program in a folder.
 - Please activate the latest version.
