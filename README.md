@@ -7,10 +7,10 @@ HashVektor is a fast, lightweight file hashing utility designed for Windows.
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
 
-Comfortable range: 1 – 10,000 files (no warnings, no UI lag, fast)
-Capable but expect a wait: 10,000 – 50,000 files (the app handles it, warning appears above 50k)
-Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
-Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
+- Comfortable range: 1 – 10,000 files (no warnings, no UI lag, fast)
+- Capable but expect a wait: 10,000 – 50,000 files (the app handles it, warning appears above 50k)
+- Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
+- Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
 
 This is the **official proprietary release** of HashVektor v1.2.
 
