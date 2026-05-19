@@ -116,8 +116,7 @@ support@planetarchives.org
 
 - SHA‑256 checksum of `HashVektor_v1.3.exe`:
     `496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a`
-- Size: `610.34 KB`
-- Modified: `2026-05-14 19:11:49`
+- Size: `650.84 KB`
 - Version number: `1.3.0`
 - VirusTotal Scan
     - [`HashVektor_v1.3.exe`](https://www.virustotal.com/gui/file/496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a?nocache=1)
