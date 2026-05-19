@@ -1,7 +1,7 @@
-# HashVektor v1.2 — Proprietary Edition
+# HashVektor v1.3 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.2.0-green.svg)
+![Version](https://img.shields.io/badge/Version-1.3.0-green.svg)
 
 HashVektor is a fast, lightweight file hashing utility designed for Windows.  
 It provides quick access to common cryptographic hash functions, batch hashing,  
@@ -12,7 +12,7 @@ and a clean interface suitable for both casual and technical users.
 - Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
 - Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
 
-This is the **official proprietary release** of HashVektor v1.2.
+This is the **official proprietary release** of HashVektor v1.3.
 
 ---
 
@@ -42,7 +42,7 @@ This is the **official proprietary release** of HashVektor v1.2.
 
 ## Licensing & Activation
 
-HashVektor v1.2 uses **offline per‑machine activation**.
+HashVektor v1.3 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
@@ -63,7 +63,7 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.2.exe`
+1. Launch `HashVektor_v1.3.exe`
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
@@ -86,7 +86,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of HashVektor v1.2 is available on:
+The latest release of HashVektor v1.3 is available on:
 
 - **GitHub Releases**  
 - **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
@@ -114,13 +114,13 @@ support@planetarchives.org
 
 ## Integrity Verification & Technical Notes
 
-- SHA‑256 checksum of `HashVektor_v1.2.exe`:
-    `ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1`
+- SHA‑256 checksum of `HashVektor_v1.3.exe`:
+    `496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a`
 - Size: `610.34 KB`
 - Modified: `2026-05-14 19:11:49`
-- Version number: `1.2.0`
+- Version number: `1.3.0`
 - VirusTotal Scan
-    - [`HashVektor_v1.2.exe`](https://www.virustotal.com/gui/file/ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1?nocache=1)
+    - [`HashVektor_v1.3.exe`](https://www.virustotal.com/gui/file/496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a?nocache=1)
         — a few heuristic false positives; no confirmed malware
 - Originally developed in PowerShell, compiled into a standalone executable
 - No external dependencies
