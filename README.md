@@ -118,12 +118,12 @@ support@planetarchives.org
     `496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a`
 - Size: `650.84 KB`
 - Version number: `1.3.0`
-- VirusTotal Scan
+- VirusTotal Scan:
     - [`HashVektor_v1.3.exe`](https://www.virustotal.com/gui/file/496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a?nocache=1)
-        — a few heuristic false positives; no confirmed malware
-- Originally developed in PowerShell, compiled into a standalone executable
-- No external dependencies
-- No telemetry or data collection
+        — a few heuristic false positives; no confirmed malware.
+- Originally developed in PowerShell, compiled into a standalone executable.
+- No external dependencies.
+- No telemetry or data collection.
 - Future patches and improvements will be delivered as free updates to licensed users. To receive updates, please download and run the necessary HotFix. A HotFix is a file which, when double-clicked, prompts the user with the option to update the HashVektor executable.
 - Please run the program in a folder.
 - Please activate the latest version.
