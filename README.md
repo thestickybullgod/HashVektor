@@ -115,11 +115,11 @@ support@planetarchives.org
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_v1.6.exe`:
-    `38ade6989c9e82d898ebd30a415849cbcdd0aada892b8cedc21333cae3c81620`
+    `0d6bbb8437c3462eb6404ac105f298c5a03d4c65925d55d5c12539d4c03433f1`
 - Size: `746.34 KB`
 - Version number: `1.6.0`
 - VirusTotal Scan:
-    - [`HashVektor_v1.6.exe`](https://www.virustotal.com/gui/file/38ade6989c9e82d898ebd30a415849cbcdd0aada892b8cedc21333cae3c81620?nocache=1)
+    - [`HashVektor_v1.6.exe`](https://www.virustotal.com/gui/file/0d6bbb8437c3462eb6404ac105f298c5a03d4c65925d55d5c12539d4c03433f1?nocache=1)
         — a few heuristic false positives; no confirmed malware.
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
