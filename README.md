@@ -116,7 +116,7 @@ support@planetarchives.org
 
 - SHA‑256 checksum of `HashVektor_v1.7.exe`:
     `0b1ef2f1038739cce72482becf805ef38d1409c273604e28869e2d16aed144f7`
-- Size: `746.34 KB`
+- Size: `747.84 KB`
 - Version number: `1.7.0`
 - VirusTotal Scan:
     - [`HashVektor_v1.7.exe`](https://www.virustotal.com/gui/file/0b1ef2f1038739cce72482becf805ef38d1409c273604e28869e2d16aed144f7?nocache=1)
