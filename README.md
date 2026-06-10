@@ -115,8 +115,8 @@ support@planetarchives.org
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_v1.5.exe`:
-    `496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a`
-- Size: `650.84 KB`
+    `14e171ea6c1144f450356f56af2fb355ca69aef026e60dc8376f42f0dfcf6172`
+- Size: `746.34 KB`
 - Version number: `1.5.0`
 - VirusTotal Scan:
     - [`HashVektor_v1.5.exe`](https://www.virustotal.com/gui/file/14e171ea6c1144f450356f56af2fb355ca69aef026e60dc8376f42f0dfcf6172?nocache=1)
