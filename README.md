@@ -1,13 +1,18 @@
-# HashVektor v1.2 — Proprietary Edition
+# HashVektor v1.6 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.2.0-green.svg)
+![Version](https://img.shields.io/badge/Version-1.6.0-green.svg)
 
 HashVektor is a fast, lightweight file hashing utility designed for Windows.  
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
 
-This is the **official proprietary release** of HashVektor v1.2.
+- Comfortable range: 1 – 10,000 files (no warnings, no UI lag, fast)
+- Capable but expect a wait: 10,000 – 50,000 files (the app handles it, warning appears above 50k)
+- Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
+- Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
+
+This is the **official proprietary release** of HashVektor v1.6.
 
 ---
 
@@ -37,7 +42,7 @@ This is the **official proprietary release** of HashVektor v1.2.
 
 ## Licensing & Activation
 
-HashVektor v1.2 uses **offline per‑machine activation**.
+HashVektor v1.6 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
@@ -58,7 +63,7 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.2.exe`
+1. Launch `HashVektor_v1.6.exe`
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
@@ -81,7 +86,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of HashVektor v1.2 is available on:
+The latest release of HashVektor v1.6 is available on:
 
 - **GitHub Releases**  
 - **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
@@ -109,17 +114,16 @@ support@planetarchives.org
 
 ## Integrity Verification & Technical Notes
 
-- SHA‑256 checksum of `HashVektor_v1.2.exe`:
-    `ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1`
-- Size: `610.34 KB`
-- Modified: `2026-05-14 19:11:49`
-- Version number: `1.2.0`
-- VirusTotal Scan
-    - [`HashVektor_v1.2.exe`](https://www.virustotal.com/gui/file/ba45b1beedb289db29faf2a8dd813d68eca006e9b2f4a84744c0dd69cca91ac1?nocache=1)
-        — a few heuristic false positives; no confirmed malware
-- Originally developed in PowerShell, compiled into a standalone executable
-- No external dependencies
-- No telemetry or data collection
+- SHA‑256 checksum of `HashVektor_v1.6.exe`:
+    `0d6bbb8437c3462eb6404ac105f298c5a03d4c65925d55d5c12539d4c03433f1`
+- Size: `746.34 KB`
+- Version number: `1.6.0`
+- VirusTotal Scan:
+    - [`HashVektor_v1.6.exe`](https://www.virustotal.com/gui/file/0d6bbb8437c3462eb6404ac105f298c5a03d4c65925d55d5c12539d4c03433f1?nocache=1)
+        — a few heuristic false positives; no confirmed malware.
+- Originally developed in PowerShell, compiled into a standalone executable.
+- No external dependencies.
+- No telemetry or data collection.
 - Future patches and improvements will be delivered as free updates to licensed users. To receive updates, please download and run the necessary HotFix. A HotFix is a file which, when double-clicked, prompts the user with the option to update the HashVektor executable.
 - Please run the program in a folder.
 - Please activate the latest version.
