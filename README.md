@@ -119,7 +119,8 @@ support@planetarchives.org
 - Size: `650.84 KB`
 - Version number: `1.5.0`
 - VirusTotal Scan:
-    - [`HashVektor_v1.5.exe`](https://www.virustotal.com/gui/file/496c8b89343e921a9689c0b3b15cf074dac3e7c4fca7df4d7b5a616ce1e1921a?nocache=1)
+    - [`HashVektor_v1.5.exe`](https://www.virustotal.com/gui/file/14e171ea6c1144f450356f56af2fb355ca69aef026e60dc8376f42f0dfcf6172?nocache=1)
+    - [`HashVektor_HF-005_Patcher.exe`](https://www.virustotal.com/gui/file/54d94fddba471fe704c46330047f98a5f15f3b5fe3416d85dace4ef31d09b4a5?nocache=1)
         — a few heuristic false positives; no confirmed malware.
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
