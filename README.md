@@ -115,11 +115,11 @@ support@planetarchives.org
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_v1.7.exe`:
-    `3120ea182fedc8fc135bbcd9b23cd7868d3eef8b526cde8b917c2de856285350`
+    `0b1ef2f1038739cce72482becf805ef38d1409c273604e28869e2d16aed144f7`
 - Size: `746.34 KB`
 - Version number: `1.7.0`
 - VirusTotal Scan:
-    - [`HashVektor_v1.7.exe`](https://www.virustotal.com/gui/file/3120ea182fedc8fc135bbcd9b23cd7868d3eef8b526cde8b917c2de856285350?nocache=1)
+    - [`HashVektor_v1.7.exe`](https://www.virustotal.com/gui/file/0b1ef2f1038739cce72482becf805ef38d1409c273604e28869e2d16aed144f7?nocache=1)
         — a few heuristic false positives; no confirmed malware.
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
