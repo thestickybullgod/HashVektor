@@ -119,7 +119,7 @@ support@planetarchives.org
 - Size: `750.84 KB`
 - Version number: `1.7.1.`
 - VirusTotal Scan:
-    - [`HashVektor_v1.7.1.exe`](https://www.virustotal.com/gui/file/0b1ef2f1038739cce72482becf805ef38d1409c273604e28869e2d16aed144f7?nocache=1)
+    - [`HashVektor_v1.7.1.exe`](https://www.virustotal.com/gui/file/6018d4a86239680d9401ef12a08e6b8b1904c13ea1c1c9c5712efa269dc18bf1?nocache=1)
         — a few heuristic false positives; no confirmed malware.
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
