@@ -120,7 +120,6 @@ support@planetarchives.org
 - Version number: `1.7.1.`
 - VirusTotal Scan:
     - [`HashVektor_v1.7.1.exe`](https://www.virustotal.com/gui/file/6018d4a86239680d9401ef12a08e6b8b1904c13ea1c1c9c5712efa269dc18bf1?nocache=1)
-        — a few heuristic false positives; no confirmed malware.
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
 - No telemetry or data collection.
