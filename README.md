@@ -42,7 +42,7 @@ This is the **official proprietary release** of HashVektor v1.7.1.
 
 ## Licensing & Activation
 
-HashVektor v1.7.1 uses **offline per‑machine activation**.
+HashVektor v1.8 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
