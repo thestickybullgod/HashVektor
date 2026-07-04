@@ -1,4 +1,4 @@
-# HashVektor v1.7.1 — Proprietary Edition
+# HashVektor v1.8 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.7.1-green.svg)
@@ -63,7 +63,7 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.7.1.exe`
+1. Launch `HashVektor_v1.8.exe`
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
@@ -86,7 +86,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of HashVektor v1.7.1 is available on:
+The latest release of HashVektor v1.8 is available on:
 
 - **GitHub Releases**  
 - **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
@@ -115,11 +115,11 @@ support@planetarchives.org
 ## Integrity Verification & Technical Notes
 
 - SHA‑256 checksum of `HashVektor_v1.7.1.exe`:
-    `6018d4a86239680d9401ef12a08e6b8b1904c13ea1c1c9c5712efa269dc18bf1`
-- Size: `750.84 KB`
-- Version number: `1.7.1.`
+    `c186a0b6af94ff825ac952f875c00490681854a2104ecff2d81b15bc3b2201cf`
+- Size: `805.84 KB`
+- Version number: `1.8`
 - VirusTotal Scan:
-    - [`HashVektor_v1.7.1.exe`](https://www.virustotal.com/gui/file/6018d4a86239680d9401ef12a08e6b8b1904c13ea1c1c9c5712efa269dc18bf1?nocache=1)
+    - [`HashVektor_v1.8.exe`](https://www.virustotal.com/gui/file/c186a0b6af94ff825ac952f875c00490681854a2104ecff2d81b15bc3b2201cf?nocache=1)
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
 - No telemetry or data collection.
