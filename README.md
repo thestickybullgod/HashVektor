@@ -114,7 +114,7 @@ support@planetarchives.org
 
 ## Integrity Verification & Technical Notes
 
-- SHA‑256 checksum of `HashVektor_v1.7.1.exe`:
+- SHA‑256 checksum of `HashVektor_v1.8.exe`:
     `c186a0b6af94ff825ac952f875c00490681854a2104ecff2d81b15bc3b2201cf`
 - Size: `805.84 KB`
 - Version number: `1.8`
