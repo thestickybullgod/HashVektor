@@ -12,7 +12,7 @@ and a clean interface suitable for both casual and technical users.
 - Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
 - Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
 
-This is the **official proprietary release** of HashVektor v1.7.1.
+This is the **official proprietary release** of HashVektor v1.8.
 
 ---
 
