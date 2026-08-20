@@ -1,7 +1,7 @@
-# HashVektor v1.8 — Proprietary Edition
+# HashVektor v0.8 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.8-green.svg)
+![Version](https://img.shields.io/badge/Version-0.8-green.svg)
 
 HashVektor is a fast, lightweight file hashing utility designed for Windows.  
 It provides quick access to common cryptographic hash functions, batch hashing,  
@@ -12,7 +12,16 @@ and a clean interface suitable for both casual and technical users.
 - Upper ceiling: ~100,000 files (cache pruning limit; batch is architecturally capable but very long-running)
 - Baseline tab specifically: 5,000 – 20,000 files is the sweet spot since it's single-threaded
 
-This is the **official proprietary release** of HashVektor v1.8.
+This is the **official proprietary release** of HashVektor v0.8.
+
+---
+
+## 2026‑08‑20 — Version Correction
+
+Old name: HashVektor_v1.8.exe
+
+New name: HashVektor_v0.8.exe
+This change updates the version label to match the correct development stage. Alongside the version correction, this release includes functional updates.
 
 ---
 
@@ -42,7 +51,7 @@ This is the **official proprietary release** of HashVektor v1.8.
 
 ## Licensing & Activation
 
-HashVektor v1.8 uses **offline per‑machine activation**.
+HashVektor v0.8 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
@@ -50,12 +59,12 @@ HashVektor v1.8 uses **offline per‑machine activation**.
 - Activation data is stored securely in your Windows registry.
 - If HashVektor is moved to a different machine, it will enter **Unlicensed Mode**.
 
-### Unlicensed Mode Limitations
+## Unlicensed Mode Limitations
 - Maximum of 15 files hashed per user (lifetime trial)
 - Batch mode disabled  
 - Activation prompt shown at launch  
 
-### License Transfers
+## License Transfers
 If you replace or retire your computer, you may request a **courtesy license transfer**.  
 Because HashVektor uses offline activation, deactivation on the old machine is not enforced automatically.
 
@@ -63,7 +72,7 @@ Because HashVektor uses offline activation, deactivation on the old machine is n
 
 ## How to Activate
 
-1. Launch `HashVektor_v1.8.exe`
+1. Launch `HashVektor_v0.8.exe`
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
@@ -86,7 +95,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of HashVektor v1.8 is available on:
+The latest release of HashVektor v0.8 is available on:
 
 - **GitHub Releases**  
 - **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
@@ -114,12 +123,12 @@ support@planetarchives.org
 
 ## Integrity Verification & Technical Notes
 
-- SHA‑256 checksum of `HashVektor_v1.8.exe`:
-    `c186a0b6af94ff825ac952f875c00490681854a2104ecff2d81b15bc3b2201cf`
-- Size: `805.84 KB`
-- Version number: `1.8`
+- SHA‑256 checksum of `HashVektor_v0.8.exe`:
+    `b2b79bfc7410eb10834d8a4c11a56e6252ebd1c7527bafdb4819f15b38297044`
+- Size: `806.84 KB`
+- Version number: `0.8`
 - VirusTotal Scan:
-    - [`HashVektor_v1.8.exe`](https://www.virustotal.com/gui/file/c186a0b6af94ff825ac952f875c00490681854a2104ecff2d81b15bc3b2201cf?nocache=1)
+    - [`HashVektor_v0.8.exe`](https://www.virustotal.com/gui/file/b2b79bfc7410eb10834d8a4c11a56e6252ebd1c7527bafdb4819f15b38297044?nocache=1)
 - Originally developed in PowerShell, compiled into a standalone executable.
 - No external dependencies.
 - No telemetry or data collection.
