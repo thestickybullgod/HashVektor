@@ -21,6 +21,7 @@ This is the **official proprietary release** of HashVektor v0.8.
 Old name: HashVektor_v1.8.exe
 
 New name: HashVektor_v0.8.exe
+
 This change updates the version label to match the correct development stage. Alongside the version correction, this release includes functional updates.
 
 ---
