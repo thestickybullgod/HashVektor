@@ -23,13 +23,16 @@ available under those terms. MIT rights apply **only** to the exact code
 that was published under MIT.
 
 MIT rights do NOT apply to:
-- New commits after the license change
+- New commits made after the license change
 - Rewritten or replaced files
 - New features, modules, or architectures
-- HashVektor v0.8 and later
 - Portable builds
 - MAUI rewrites
 - Commercial releases
+
+Version‑specific boundary:  
+MIT rights do not apply to any HashVektor release beginning with the earliest v1.0 build, even though that version number was later corrected to v0.8 on 2026‑08‑20.
+All releases published on or after the 2026‑08‑20 version correction — including v0.8, v1.0, and all subsequent versions — are fully proprietary and not covered by the prior MIT license.
 
 ---
 
